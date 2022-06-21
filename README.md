@@ -4,7 +4,7 @@ Chapter 1: General Rules
 P1: Be respectful to other players and do not go out of your way to ruin other players' experiences.
 P2: Do not abuse bugs or exploits, report them to a Staff Member.
 P3: The use of Third Party Software (Cheat Clients, Auto-clickers, etc.) is strictly prohibited.
-P4: Do not threaten to or attempt to DDOS, Crash, or Harm the server in any way.
+P4: Do not threaten to or attempt to Dox, Crash, or Harm the server in any way.
 P5: Metagaming, the use of outside information you normally wouldn't have in roleplay, is not allowed. (This includes utilizing information received outside the server, defending a party member you didn’t witness being damaged, killing raiders you did not see or realize raided you)
 P6: Do not leave the server to avoid punishment. (LTAP)
 P7: Do not impersonate other players or staff.
